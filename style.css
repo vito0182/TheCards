@@ -3,8 +3,15 @@ body {
     font-family: montserrat, sans-serif;
     width: 100%;
     min-height: 100vh;
+    background-color: #081122;
   }
 
+canvas {
+	cursor: crosshair;
+	display: block;
+    position: absolute;
+}
+  
 .box {
     height:100vh;
 }
