@@ -17,8 +17,8 @@ canvas {
 }
 
 .card__wrapper {
-    width: 200px;
-    height: 250px;
+    width: 300px;
+    height: 400px;
     perspective: 1000px;
     margin: 10px;
 }
@@ -62,14 +62,10 @@ canvas {
 
 .card--front h2, .card--back h2 {
     color: #FFF;
-    font-size: 20px;
-    font-weight: 900;
+    font-size: 28px;
+    padding: 15px;
+    font-weight: 800;
     text-transform: uppercase;
     text-align: center;
 }
 
-.hey {
-    width: 800px;
-    height: 250px;
-    background-color: #FFCE00;
-}
