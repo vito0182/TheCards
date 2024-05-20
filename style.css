@@ -52,11 +52,11 @@ canvas {
 }
 
 .card--front {
-    background-color: #FE4880;   
+    background-color: #4f613b;   
 }
 
 .card--back {
-    background-color: #FFCE00;
+    background-color: #d67e19;
     transform: rotateY(180deg);
 }
 
