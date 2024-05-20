@@ -56,7 +56,7 @@ canvas {
 }
 
 .card--back {
-    background-color: #d67e19;
+    background-color: #d99931;
     transform: rotateY(180deg);
 }
 
